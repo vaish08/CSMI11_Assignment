@@ -1,3 +1,9 @@
+/*3.	For a given K value (K > 0) reverse blocks of K nodes in a single linked list.
+Example: Input: 1 2 3 4 5 6 7 8 9 10. Output for different K values:
+For K = 2: 2 1 4 3 6 5 8 7 10 9
+For K = 3: 3 2 1 6 5 4 9 8 7 10
+For K = 4: 4 3 2 1 8 7 6 5 9 10
+*/
 #include<iostream>
 #include<stack>
 

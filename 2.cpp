@@ -1,3 +1,5 @@
+/*2.Implement Enqueue, Dequeue and Display functions for Queue which is implemented by two stacks.*/
+
 #include<iostream>
 #include<stack>
 using namespace std;

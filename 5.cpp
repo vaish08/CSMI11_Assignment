@@ -1,3 +1,10 @@
+/*5.Write a program to find the following in the binary tree without using recursion:
+(i)the number of full nodes ( nodes with two children)
+(ii)number of half nodes (nodes with only one child)
+(iii)the number of leaf nodes, 
+(iv)print all the ancestors of a node 
+*/
+
 #include<iostream>
 #include<queue>
 using namespace std;
