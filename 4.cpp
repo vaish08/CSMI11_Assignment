@@ -1,4 +1,4 @@
-/*4.	Write a program to Split a Circular doubly Linked List into two equal parts. 
+/*4.Write a program to Split a Circular doubly Linked List into two equal parts. 
 If the number of nodes in the list are odd then make first list one node extra than second list*/
 #include<iostream>
 
